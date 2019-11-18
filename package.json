@@ -1,0 +1,12 @@
+{
+  "name": "node-http-server-seed",
+  "version": "1.0.0",
+  "description": "Basic Node.js HTTP server seed",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Joseph Montero A <@josephma93>",
+  "license": "MIT"
+}
